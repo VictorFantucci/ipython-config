@@ -1,5 +1,5 @@
-# IPython Configuration for Data Science
-Repository containing the IPython configuration file with emphasis for the development of Data Science projects.
+# IPython Configuration for Data Projects
+Repository containing the IPython configuration file with emphasis for the development of Data projects.
 
 ## How to configure:
 
